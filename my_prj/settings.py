@@ -77,7 +77,6 @@ WSGI_APPLICATION = 'my_prj.wsgi.application'
 
 DATABASES = {
     'default': {
-
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME':'db0',
         'USER':'dbuser',
