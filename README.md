@@ -26,7 +26,7 @@ this project is part of a youtube series where I adress handling images in Djang
 part 1: ImageHandling; djangorestframework; REST API
 https://www.youtube.com/watch?v=4D9GPnqXr8s
 
-part 2: Git and GitHub;; djangorestframework; REST AP
+part 2: Git and GitHub; djangorestframework; REST AP
 https://www.youtube.com/watch?v=l9m3VFWoorY
 
 part 3-1: djangorestframework; digital ocean
