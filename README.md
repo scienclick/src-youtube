@@ -23,7 +23,6 @@ this project is part of a youtube series where I adress handling images in Djang
 
 ## References
 
-youtube series:
 part 1: ImageHandling; djangorestframework; REST API
 https://www.youtube.com/watch?v=4D9GPnqXr8s
 
